@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5551
     wikipedia: http://en.wikipedia.org/wiki/Phillips_Brooks
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27563#Heart-s-ease
 gutenberg_issued: '2008-12-18'
 gutenberg_type: Text
 identifiers:
