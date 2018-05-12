@@ -1,0 +1,27 @@
+_repo: Heart-s-ease_27563
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooks, Phillips
+    birthdate: 1835
+    deathdate: 1893
+    gutenberg_agent_id: '5551'
+    url: http://www.gutenberg.org/2009/agents/5551
+    wikipedia: http://en.wikipedia.org/wiki/Phillips_Brooks
+description: ''
+gutenberg_issued: '2008-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Christian life'
+title: Heart's-ease
+url: http://www.gutenberg.org/ebooks/27563
